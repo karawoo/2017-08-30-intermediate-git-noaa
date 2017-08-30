@@ -1,3 +1,5 @@
 # Jason's Bio
 
-observer data analystMuahahaha
+observer data analyst
+
+'git'ing better at banjo
